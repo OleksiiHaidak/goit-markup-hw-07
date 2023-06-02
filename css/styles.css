@@ -320,8 +320,6 @@ body {
     pointer-events: none;
 }
 
-/* ===============HEADER MOBILE MENU========================== */
-
 .mobile-menu.is-open {
     opacity: 1;
     visibility: visible;
@@ -381,7 +379,7 @@ body {
 .social-list-mobile-modal {
     display: flex;
     gap: 56px;
-    padding-bottom: auto;
+    /* padding-bottom: auto; */
 }
 
 .social-list-modal-link {
@@ -401,8 +399,7 @@ body {
     fill: var(--accent-light-color);
 }
 
-
-/* ===============HEADER MOBILE MENU========================== */
+/* ===============/HEADER MOBILE MENU========================== */
 
 
 
