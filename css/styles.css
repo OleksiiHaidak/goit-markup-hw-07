@@ -380,7 +380,6 @@ body {
 .social-list-mobile-modal {
     display: flex;
     gap: 56px;
-    padding-bottom: auto;
 }
 
 .social-list-modal-link {
