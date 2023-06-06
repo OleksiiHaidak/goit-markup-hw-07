@@ -183,6 +183,10 @@ body {
     fill: var(--accent-light-color);
 }
 
+.current-modal {
+    color: var(--accent-dark-blue-color);
+}
+
 /* ====================/HEADER-MODAL-MOBILE-MENU========================== */
 
 
