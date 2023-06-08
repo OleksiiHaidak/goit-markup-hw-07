@@ -1163,10 +1163,6 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
     flex-basis: 168px;
 }
 
-.customers-list-link {
-    width: 100%;
-}
-
 .footer-wrapper {
     display: flex;
     align-items: flex-start;
