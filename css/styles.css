@@ -692,6 +692,10 @@ screen and (min-resolution: 2dppx) and (max-width: 427px) {
     row-gap: 72px;
 }
 
+.customers-list-item {
+    flex-basis: calc((100% - 16px)/2);
+}
+
 .customers-list-link {
     display: flex;
     justify-content: center;
@@ -1153,6 +1157,10 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
 
 .customers-list {
     column-gap: 24px;
+}
+
+.customers-list-item {
+    flex-basis: 168px;
 }
 
 .customers-list-link {
